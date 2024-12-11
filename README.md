@@ -58,9 +58,8 @@ Our system consists of five main stages:
 
 ### 4. Evaluation
 
-- Metrics: Accuracy, Precision, Recall, F1-Score.
+- Metrics: Accuracy.
 - Techniques:
-  - **k-Fold Cross-Validation** for robustness.
   - Analyze misclassified images to refine models.
 
 ### 5. Deployment
